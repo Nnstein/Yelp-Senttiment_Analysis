@@ -21,7 +21,6 @@ Authlib==0.15.6
 Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 backoff==2.2.1
-beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293028159/work
 bidict==0.22.1
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 blinker==1.6.2
@@ -37,7 +36,6 @@ cchardet @ file:///D:/bld/cchardet_1666947750730/work
 certifi @ file:///C:/b/abs_36eb5mzhph/croot/certifi_1690232276943/work/certifi
 cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-chromadb==0.3.26
 click==8.1.6
 clickhouse-connect==0.6.2
 cloudpickle==2.2.1
@@ -64,7 +62,6 @@ dnspython==1.16.0
 docopt==0.6.2
 duckdb==0.8.1
 elastic-transport==8.4.0
-elasticsearch==8.9.0
 entrypoints @ file:///C:/ci/entrypoints_1649926676279/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fake-useragent==1.2.1
@@ -124,8 +121,6 @@ jupyterlab_server @ file:///C:/b/abs_fayfbtvh57/croot/jupyterlab_server_16693636
 kaggle==1.5.16
 keras==2.11.0
 kiwisolver==1.4.4
-langchain==0.0.196
-langchainplus-sdk==0.0.8
 langcodes @ file:///opt/conda/conda-bld/langcodes_1643477751144/work
 libclang==16.0.0
 locket==1.0.0
@@ -156,7 +151,6 @@ nbconvert @ file:///C:/b/abs_4av3q4okro/croot/nbconvert_1668450658054/work
 nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
 nest-asyncio @ file:///C:/ci/nest-asyncio_1649848132512/work
 networkx==2.6.3
-nltk @ file:///opt/conda/conda-bld/nltk_1645628263994/work
 notebook @ file:///C:/b/abs_ca13hqvuzw/croot/notebook_1668179888546/work
 notebook_shim @ file:///C:/b/abs_ebfczttg6x/croot/notebook-shim_1668160590914/work
 numexpr @ file:///C:/b/abs_afm0oewmmt/croot/numexpr_1683221839116/work
@@ -208,7 +202,6 @@ pymongo==3.10.1
 Pympler @ file:///tmp/build/80754af9/pympler_1602785470644/work
 pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
 pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
-pypdf==3.9.1
 PyQt5==5.15.7
 PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
 pyreadline3==3.4.1
@@ -225,15 +218,13 @@ python-twitter==3.5
 python-twitter-v2==0.8.1
 pytz @ file:///C:/Windows/TEMP/abs_90eacd4e-8eff-491e-b26e-f707eba2cbe1ujvbhqz1/croots/recipe/pytz_1654762631027/work
 pywin32==305.1
-pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp37-none-win_amd64.whl
+pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp32-none-win_amd64.whl
 PyYAML @ file:///C:/b/abs_d0g7dqt2xw/croot/pyyaml_1670514768165/work
 pyzmq @ file:///C:/ci/pyzmq_1657616000714/work
 qtconsole @ file:///C:/ci/qtconsole_1662019052262/work
 QtPy @ file:///C:/ci/qtpy_1662015130233/work
 questionary==1.10.0
 randomname==0.1.5
-rasa==3.5.11
-rasa-sdk==3.5.1
 redis==4.5.5
 regex @ file:///C:/ci/regex_1658258299320/work
 requests @ file:///C:/ci/requests_1657735340829/work
