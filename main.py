@@ -1,4 +1,6 @@
 # from wordcloud import WordCloud
+pip install streamlit
+
 import streamlit as st
 from preprocess import load_data, perform_sentiment_analysis, load__cat_data
 from wordcloud import WordCloud
